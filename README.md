@@ -1,3 +1,4 @@
+<pre>
 …or create a new repository on the command line
 
 echo "# narrowscreen" >> README.md
@@ -14,3 +15,4 @@ git push -u origin main
 git remote add origin https://github.com/LordFB/narrowscreen.git
 git branch -M main
 git push -u origin main
+</pre>
